@@ -7,10 +7,9 @@
 ---
 
 ## 🚀 About Me
-- 🎓 I'm a student in **IT / Computer Engineering**
+- 🎓 I'm a student in **IT / Computer Engineering** with a focus on **Cloud Computing & DevOps**
 - 💻 I build **web, desktop, and smart systems applications**
 - 🤖 Interested in **AI, Cloud, and DevOps**
-- 🔍 Currently looking for a **Summer Internship 2026**
 - ⚡ Fun fact: I love turning ideas into real-world projects
 
 ---
@@ -58,23 +57,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 

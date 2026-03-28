@@ -1,46 +1,88 @@
-<h1 align="center">Hi 👋, I'm Yassmine Farah Hammadi</h1>
+<h1 align="center">Hi 👋, I'm Your Name</h1>
 
 <h3 align="center">
-☁️ Cloud & DevOps Engineering Student | 🤖 AI & Smart Systems Enthusiast | 💻 Building Scalable Applications
+☁️ Cloud & DevOps Engineering Student | 🤖 AI Enthusiast | 💻 Full-Stack Developer
 </h3>
 
 ---
 
-<h2 align="center">🚀 Tech Stack & Tools</h2>
+## 🚀 About Me
+- 🎓 I'm a student in **IT / Computer Engineering**
+- 💻 I build **web, desktop, and smart systems applications**
+- 🤖 Interested in **AI, Cloud, and DevOps**
+- 🔍 Currently looking for a **Summer Internship 2026**
+- ⚡ Fun fact: I love turning ideas into real-world projects
+
+---
+
+## 🔭 Current Projects
+- 🚛 Smart City Waste Management System (JavaFX + IoT)
+- 🌐 Web App (Symfony / React)
+- 📱 FlutterFlow Blog App with AI features
+
+---
+
+## 🌱 Currently Learning
+- ☁️ Cloud Computing (OpenStack, Kubernetes)
+- ⚙️ CI/CD & DevOps pipelines
+- 🤖 AI integration & automation
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+Java | Python | C | C++ | JavaScript | TypeScript | PHP
+
+### 🌐 Web & Frameworks
+React | Node.js | Spring Boot | Symfony | .NET | JavaFX | FlutterFlow
+
+### ☁️ Cloud & DevOps
+Docker | Kubernetes | Jenkins | GitHub Actions | Terraform | Ansible
+
+### 🗄️ Databases
+MySQL | MongoDB | PostgreSQL | Firebase | SQL Server
+
+### 🧰 Tools & Systems
+Git | Linux | Bash | Arduino | Prometheus | Grafana
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,php,react,angular,nodejs,spring,html,css,mongodb,mysql,postgres,docker,kubernetes,firebase,linux,git,bash,arduino" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-
+## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassminefarahhamadi&layout=compact&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-
----
-
-<h2 align="center">📫 Connect with me</h2>
+## 📫 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/yassmine-hamadi-54a588317/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Yassmine%20Hammadi-blue?style=for-the-badge&logo=linkedin" />
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="mailto:yassminehammadi2@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
 </p>
 
 ---
 
-<h2 align="center">🔥 Current Focus</h2>
-
-<p align="center">
-☁️ Cloud & DevOps (Docker, Kubernetes, CI/CD) <br>
-🤖 AI Integration & Intelligent Applications
-</p>
+## ⚡ Fun Section (Optional)
+- 🌍 I love working on **Smart City & IoT projects**
+- 🤝 Open to collaboration
+- 🚀 Always learning new technologies

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Yassmine Farah Hammadi</h1>
 
 <h3 align="center">
 ☁️ Cloud & DevOps Engineering Student | 🤖 AI Enthusiast | 💻 Full-Stack Developer
@@ -29,22 +29,32 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages and Tools I Use
 
 ### 💻 Programming Languages
-Java | Python | C | C++ | JavaScript | TypeScript | PHP
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,php" />
+</p>
 
 ### 🌐 Web & Frameworks
-React | Node.js | Spring Boot | Symfony | .NET | JavaFX | FlutterFlow
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,spring,symfony,dotnet,html,css" />
+</p>
 
 ### ☁️ Cloud & DevOps
-Docker | Kubernetes | Jenkins | GitHub Actions | Terraform | Ansible
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,githubactions" />
+</p>
 
 ### 🗄️ Databases
-MySQL | MongoDB | PostgreSQL | Firebase | SQL Server
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
+</p>
 
 ### 🧰 Tools & Systems
-Git | Linux | Bash | Arduino | Prometheus | Grafana
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,git,bash,arduino,prometheus,grafana" />
+</p>
 
 ---
 
@@ -71,18 +81,18 @@ Git | Linux | Bash | Arduino | Prometheus | Grafana
 ## 📫 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<a href="https://www.linkedin.com/in/yassmine-hamadi-54a588317/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Yassmine-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+<a href="mailto:yassminehammadi2@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
 </a>
 </p>
 
 ---
 
-## ⚡ Fun Section (Optional)
+## ⚡ Fun Section
 - 🌍 I love working on **Smart City & IoT projects**
 - 🤝 Open to collaboration
 - 🚀 Always learning new technologies
